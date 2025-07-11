@@ -8,6 +8,15 @@
 - [PandaCSS](https://panda-css.com/) — CSS-in-JS moderne
 - [ArkUI](https://ark-ui.com/) — librairie de composants accessibles
 - [Create React App](https://create-react-app.dev/) — outil de scaffolding React
+- [Vitest](https://vitest.dev/) — framework de tests unitaires
+
+---
+
+## 📄 Test technique
+
+Retrouvez l'énoncé du test dans le fichier [TECHNICAL_TEST.md](./TECHNICAL_TEST.md)
+
+---
 
 Ce projet a été bootstrappé avec [Create React App](https://github.com/facebook/create-react-app) et utilise [pnpm](https://pnpm.io/) comme gestionnaire de paquets.
 
