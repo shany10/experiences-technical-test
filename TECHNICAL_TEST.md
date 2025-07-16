@@ -31,9 +31,9 @@ Développe une petite application qui :
 
 - React + TypeScript obligatoire
 - Utilisation de `fetch` ou `axios` (au choix)
-- Utilisation obligatoire de PandaCSS et ArkUI pour le CSS/UI
+- CSS libre
 - Pas besoin de router, ni de gestion d'état complexe (pas de Redux)
-- Un test unitaire simple avec [Vitest](https://vitest.dev/) (ex : tester le filtrage ou l'affichage d'un composant)
+- (Bonus) Un test unitaire simple
 
 ---
 
@@ -47,6 +47,6 @@ Développe une petite application qui :
   - Ajouter des attributs `alt` pertinents sur les images
   - Utiliser des labels pour les champs de recherche/filtre
 - **Test unitaire simple** :
-  - Ajouter un test avec Vitest sur un composant ou une fonction (ex : le filtre par statut ou la présence d'un nom dans la liste)
+  - Ajouter un test sur un composant ou une fonction (ex : le filtre par statut ou la présence d'un nom dans la liste)
 
 ---

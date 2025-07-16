@@ -5,10 +5,7 @@
 - [React](https://react.dev/) — bibliothèque UI
 - [TypeScript](https://www.typescriptlang.org/) — typage statique
 - [pnpm](https://pnpm.io/) — gestionnaire de paquets rapide
-- [PandaCSS](https://panda-css.com/) — CSS-in-JS moderne
-- [ArkUI](https://ark-ui.com/) — librairie de composants accessibles
 - [Create React App](https://create-react-app.dev/) — outil de scaffolding React
-- [Vitest](https://vitest.dev/) — framework de tests unitaires
 
 ---
 
