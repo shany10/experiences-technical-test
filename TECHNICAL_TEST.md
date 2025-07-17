@@ -16,7 +16,7 @@ Créer une interface React permettant d'afficher une liste de personnages issus 
 Développe une petite application qui :
 
 1. **Récupère une liste de personnages depuis l'API Rick & Morty**
-   - Endpoint : https://rickandmortyapi.com/
+   - Documentation de l'API : https://rickandmortyapi.com/
 2. **Affiche la liste des personnages sous forme de cartes** :
    - nom du personnage
    - image
